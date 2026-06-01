@@ -198,3 +198,4 @@ MIT or MIT/Apache 2.0 where applicable.
 Logo: CC-BY-NC-ND
 
 - Original Tauri Logo Designs by [Daniel Thompson-Yvetot](https://github.com/nothingismagick) and [Guillaume Chau](https://github.com/akryum)
+
